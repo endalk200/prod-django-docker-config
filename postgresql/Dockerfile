@@ -1,6 +1,5 @@
 # Step 1- Set arguments used throughout the build
-# ARG POSTGRES_VERSION=13.3-alpine
-ARG POSTGRES_VERSION=latest
+ARG POSTGRES_VERSION=13.3-alpine
 
 # Step 2- Set the postgresql base image
 FROM postgres:${POSTGRES_VERSION}
