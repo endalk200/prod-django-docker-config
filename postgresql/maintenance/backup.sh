@@ -1,12 +1,5 @@
 #!/usr/bin/env bash
 
-
-### Create a database backup.
-###
-### Usage:
-###     $ docker-compose -f <environment>.yml (exec |run --rm) postgres backup
-
-
 set -o errexit
 set -o pipefail
 set -o nounset
