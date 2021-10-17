@@ -2,8 +2,8 @@
 
 For detailed explanation read the full blog.
 
-- [Production-Ready Docker Configuration With DigitalOcean Container Registry Part I](https://medium.com/subscribe/@endalk200)
-- [Production-Ready Docker Configuration With DigitalOcean Container Registry Part II](https://medium.com/subscribe/@endalk200)
+- [Production-Ready Docker Configuration With DigitalOcean Container Registry Part I](https://endalk200.medium.com/production-ready-docker-configuration-with-digitalocean-container-registry-part-i-e53ea56b4be1)
+- [Production-Ready Docker Configuration With DigitalOcean Container Registry Part II](https://endalk200.medium.com/production-ready-docker-configuration-with-digitalocean-container-registry-part-ii-5361b8e6d5e0)
 
 [subscribe](https://medium.com/subscribe/@endalk200) for more articles like this.
 
